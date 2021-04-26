@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mattiematical
+- 👀 I’m interested in data.
+- 🌱 I’m currently learning how to data.
+- 💞️ I’m looking to collaborate on data.
+- 📫 How to reach me ... you know how
